@@ -1,0 +1,21 @@
+Phishing Email Analysis – Task 2
+
+Email Source: PayPal phishing example
+
+Indicators found:
+1. Sender address spoofing – Display name shows service@intl.paypal.com but real sending address is service.epaypal@outlook.com.
+2. Urgent subject line – “Response required” designed to create panic.
+3. Unusual activity warning – Fake security alert to push user to click.
+4. Suspicious links – "log in" and "Resolution Center" could lead to fake sites (hover to check real URL).
+5. Generic greeting – No personal name, just "Dear Customer".
+6. Language issues – Minor grammatical inconsistencies.
+7. From domain does not match official PayPal domain (paypal.com).
+
+Risks:
+- Credential theft via fake login page.
+- Possible malware if links lead to malicious downloads.
+
+Recommendations:
+- Do not click links or download attachments from suspicious emails.
+- Report to PayPal's phishing email address: phishing@paypal.com.
+- Delete the email after reporting.

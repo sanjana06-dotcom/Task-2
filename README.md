@@ -40,3 +40,30 @@ Analyze a suspicious email sample to identify phishing characteristics.
 
 ## ✅ Outcome
 Learned to identify phishing characteristics, spot spoofed email addresses, and evaluate risks of suspicious emails.
+
+
+##  Interview Question Answers
+
+1. **What is phishing?**  
+   Phishing is a cyber-attack where attackers send deceptive emails or messages to trick users into revealing login credentials or downloading malware.
+
+2. **How to identify a phishing email?**  
+   Look for sender domain mismatches, urgent language, suspicious links, unexpected attachments, and poor grammar.
+
+3. **What is email spoofing?**  
+   Spoofing is when the attacker falsifies the sender address to appear as a trusted source.
+
+4. **Why are phishing emails dangerous?**  
+   They can steal login credentials, deploy malware, steal sensitive data, or compromise systems.
+
+5. **How can you verify the sender’s authenticity?**  
+   Check the sender’s domain, inspect email headers (like SPF, DKIM, DMARC), and compare with official sources.
+
+6. **What tools can analyze email headers?**  
+   Tools like MXToolbox Email Header Analyzer and Google Admin Toolbox Messageheader.
+
+7. **What actions should be taken on suspected phishing emails?**  
+   Do not click links or attachments, verify sender, report to the organization, and delete the email.
+
+8. **How do attackers use social engineering in phishing?**  
+   By exploiting emotions like fear or urgency and using trust cues like familiar branding or spoofed domains.
